@@ -26,7 +26,8 @@ Compression=lzma
 SolidCompression=yes
 OutputDir=..\bin
 DisableWelcomePage=True
-DisableReadyPage=True
+DisableReadyMemo=True
+DisableDirPage=yes
 
 [Languages]
 Name: "brazilianportuguese"; MessagesFile: "compiler:Languages\BrazilianPortuguese.isl"
